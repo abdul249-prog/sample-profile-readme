@@ -1,16 +1,43 @@
-## 👏 Hi, I'm *your name here*
-##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
-## ⚒️ Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
-## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
-## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+👋 Welcome to My GitHub Profile!
 
-_"Your sample quote here!"_
+💻 About Me
+
+Hello! I'm a college student at the University of Texas at San Antonio (UTSA), studying Information Systems and Cybersecurity.
+
+I'm still a beginner in cybersecurity, but I'm excited to learn new skills, explore technology, and improve my knowledge.
+
+🚀 What I'm Currently Learning
+
+🔐 Cybersecurity fundamentals
+
+🐧 Kali Linux and virtual machines
+
+💻 Git and GitHub
+
+🛠️ Basic Bash and PowerShell commands
+
+🌐 Computer systems and security
+
+🎯 My Goals
+
+My goal is to gain more experience in cybersecurity, improve my technical skills, and eventually find a cybersecurity internship where I can learn from professionals.
+
+⚽ My Interests
+
+Playing soccer
+
+Learning about technology
+
+Exploring new computer skills
+
+Improving myself and learning new things
+
+📫 Connect With Me
+
+GitHub: https://github.com/abdul249-prog
+
+LinkedIn: 
+
+💡 Favorite Quote
+
+"Rest at the end, not in the middle." — Kobe Bryant
